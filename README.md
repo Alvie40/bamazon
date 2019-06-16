@@ -17,6 +17,16 @@ Make sure you use the normal GitHub. Because this is a CLI App, there will be no
 * Because screenshots (and well-written READMEs) are extremely important in the context of GitHub, this will be part of the grading.
 
 If you haven't written a markdown file yet, [click here for a rundown](https://guides.github.com/features/mastering-markdown/), or just take a look at the raw file of these instructions.
+ 
+ Gifs
+ <img src="./Screen.gif" width="400" height="400" />
+
+
+
+
+
+
+
 
 ### Commits
 
